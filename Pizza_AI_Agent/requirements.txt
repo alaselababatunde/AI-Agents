@@ -1,8 +1,12 @@
 flask
-langchain
-openai
-python-dotenv
+requests
 markdown
+python-dotenv
 pandas
-chromadb
+openai
+langchain-core
+langchain
+langchain-community
+langchainhub
 sentence-transformers
+chromadb
