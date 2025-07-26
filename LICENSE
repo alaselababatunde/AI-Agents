@@ -1,29 +1,15 @@
 
 ---
 
-## ✅ `about.md`
+### ✅ `LICENSE`
 
-```markdown
-# About Alash Chat
+```txt
+MIT License
 
-**Alash Chat** is built by Alasela Babatunde as part of his journey into conversational AI UI/UX design. The project aims to mimic the flow of real-world chatbots like ChatGPT while retaining full control and open-source flexibility.
+Copyright (c) 2025 Alash Studios
 
-This frontend is designed to:
-- Integrate with AI backends (LLMs, Ollama, RAG systems, Flask)
-- Simulate a clean conversation UI with memory
-- Serve as a starting point for future projects like Cura AI
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction...
 
----
-
-## Goals
-- Help developers design chatbot interfaces easily
-- Provide a clean base for AI startups or students
-- Encourage open learning in conversational UI building
-
----
-
-## Future Plans
-- Emotion-driven response animation
-- AI avatar integration
-- Text-to-Speech (TTS) compatibility
-- Memory context system
+[rest of standard MIT License here – I’ll include full text if needed]
