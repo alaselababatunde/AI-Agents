@@ -10,3 +10,5 @@ langchain-community
 langchainhub
 sentence-transformers
 chromadb
+gunicorn
+
