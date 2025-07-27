@@ -11,4 +11,5 @@ langchainhub
 sentence-transformers
 chromadb
 gunicorn
+langchain_ollama
 
