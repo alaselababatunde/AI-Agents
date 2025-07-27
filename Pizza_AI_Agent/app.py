@@ -64,7 +64,7 @@ prompt = ChatPromptTemplate.from_template(template)
 def run_chain(reviews, question):
     prompt_text = prompt.format(reviews=reviews, question=question)
     payload = {
-        "model": "mistralai/mistral-nemo:free",
+        "model": "openchat/openchat-7b",
         "messages": [
             {"role": "system", "content": "You are an expert in answering questions about Pizza-related topics."},
             {"role": "user", "content": prompt_text}
