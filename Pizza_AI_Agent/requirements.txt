@@ -12,4 +12,4 @@ sentence-transformers
 chromadb
 gunicorn
 langchain_ollama
-
+langchain_chroma
