@@ -13,3 +13,4 @@ chromadb
 gunicorn
 langchain_ollama
 langchain_chroma
+langchain-huggingface
